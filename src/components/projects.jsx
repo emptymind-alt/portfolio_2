@@ -57,14 +57,7 @@ const Projects = () => {
 export default Projects;
 
 const ProjectData = [
-  {
-    title: "HealthDoc",
-    img: "https://user-images.githubusercontent.com/60403638/118406404-93272600-b699-11eb-8609-3e222af021b1.png",
-    skills: "React.js, Redux, SASS, Node.js, Express.js, MongoDB, and Django",
-    github: "https://github.com/roshan0708/HealthDoc",
-    text: "Designed and developed an ecommerce site where user can purchase clothes and make payments along with the signin and signup functionality.",
-    external: "https://healthdoc.herokuapp.com/",
-  },
+  
   {
     title: "MeTalk",
     img: Pro2,
