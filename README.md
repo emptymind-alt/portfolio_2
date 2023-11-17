@@ -1,4 +1,4 @@
-Just open below netlify link, you got what i did actually
+Just open  netlify link, you got what i did actually
 https://elaborate-starlight-ce1d8f.netlify.app/
 
 
