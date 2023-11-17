@@ -1,3 +1,7 @@
+Just open below netlify link, you got what i did actually
+https://elaborate-starlight-ce1d8f.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
